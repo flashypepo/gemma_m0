@@ -1,5 +1,6 @@
 # Gemma IO demo
-# Welcome to CircuitPython 2.0.0 :)
+# Welcome to CircuitPython 2.3.1
+# 2018-0509 PePo
 
 import board
 import time
