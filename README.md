@@ -1,3 +1,2 @@
-# gemma_m0
-wearable experiments
-CircuitPython development
+# gemma m0 express
+wearable experiments, development in CircuitPython
